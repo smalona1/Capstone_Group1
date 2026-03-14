@@ -1,0 +1,10 @@
+# Ignore the data folder entirely
+RealEstateData2000-2025/
+
+# Ignore any loose excel or csv files just in case
+*.xlsx
+*.csv
+
+# Ignore Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
